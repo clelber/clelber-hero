@@ -1,1 +1,1 @@
-web: companyhero.wsgi
+web: gunicorn companyhero.wsgi
